@@ -1,4 +1,5 @@
 # vue3
+vue3 skeloton
 
 ## Project setup
 ```
